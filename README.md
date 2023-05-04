@@ -6,5 +6,6 @@
 Software Enginner at  [Industrial University of Ho Chi Minh City](https://iuh.edu.vn/vi/gioi-thieu-chung-s87.html) 🧑‍🎓
 
 [![HoHoangHuyQuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoHoangHuyQuang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoHoangHuyQuang&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 If you want to say hi, I'll be happy to meet you more! 😁😁😊😊😊
