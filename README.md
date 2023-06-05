@@ -10,7 +10,7 @@ I’m currently learning **Full Stack.**
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/v%C3%B5-t%E1%BA%A1o-707695218/" target="_blank">
+  <a href="https://www.linkedin.com/in/h%E1%BB%93-ho%C3%A0ng-huy-quang-592630233/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://github.com/HoHoangHuyQuang" alt="Github">
