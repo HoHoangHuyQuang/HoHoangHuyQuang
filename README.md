@@ -30,9 +30,9 @@ I’m currently learning **Full Stack.**
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://icons8.com/icon/13441/python"/>
-  <img src="https://icons8.com/icon/90519/spring-boot"/>
-  <img src="https://icons8.com/icon/NfbyHexzVEDk/react"/>
+  <img src="https://img.icons8.com/color/48/000000/python"/>
+  <img src="https://img.icons8.com/?size=1x&id=90519&format=png"/>
+<!--   <img src="https://img.icons8.com/?size=1x&id=NfbyHexzVEDk&format=png"/> -->
 </p>
 If you want to say hi, I'll be happy to meet you more! 😁😁😊😊😊
 
